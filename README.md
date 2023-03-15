@@ -8,6 +8,8 @@ The owner of the Madhav E-Commerce Store wants us to create an interactive dashb
 
 ## **Dataset used**
 
+- Details
+- Orders
 
 
 ## **Questions**
