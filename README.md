@@ -8,8 +8,8 @@ The owner of the Madhav E-Commerce Store wants us to create an interactive dashb
 
 ## **Dataset used**
 
-- Details
-- Orders
+- <a href="https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Details.csv">Details</a>
+- <a href="https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Orders.csv">Orders</a>
 
 
 ## **Questions**
