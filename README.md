@@ -23,7 +23,7 @@ The owner of the Madhav E-Commerce Store wants us to create an interactive dashb
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png)
+![Alt text of the image](https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Madhav%20Store%20Ecommerce%20Dashboard.png)
 
 ## **Project Insight**
 
