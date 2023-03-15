@@ -1,2 +1,32 @@
 # Interactive-Dashboard-Creation-Using-Power-BI
-Creating Interactive Dashboard of Madhav E-commerce Store
+Creating Interactive Dashboard of Madhav E-Commerce Store
+
+## **Project Objective**
+
+The owner of the Madhav E-Commerce Store wants us to create an interactive dashboard to track and analyze their online sales across India.
+
+
+## **Dataset used**
+
+
+
+## **Questions**
+
+
+
+## **Process**
+
+- Created an interactive dashboard to track and analyze online sales data.
+- Used complex parameters to drill down in worksheets and customization using filters and slicers.
+- Created connections, join new tables, and calculations to manipulate data and enable user-driven parameters for visualizations.
+- Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
+
+## **Dashboard**
+
+![Alt text of the image](https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png)
+
+## **Project Insight**
+
+
+
+## **Final Conclusion**
