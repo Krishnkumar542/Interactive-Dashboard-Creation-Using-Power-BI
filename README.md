@@ -35,6 +35,9 @@ The owner of the **Madhav E-Commerce Store** wants us to create an <a href="http
 
 ## **Project Insight**
 
-
+- Most of the customers spent the maximum amounts of money on purchasing products like clothing (63%), Electronics (21%) and furniture (17%) (Printers, Bookcases, Saree, etc).
+- The states of Maharashtra, Madhya Pradesh and Uttar Pradesh are the top 3 product buyers.
+- The customers Harivansh, Madhav and Madan Mohan are the top 3 product buyers.
+- Generally, the customers use the Cash on Delivery mode of Payment (44%) and UPI (21%).
 
 ## **Final Conclusion**
