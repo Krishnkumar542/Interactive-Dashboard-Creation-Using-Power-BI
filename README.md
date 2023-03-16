@@ -3,7 +3,7 @@ Creating Interactive Dashboard of Madhav E-Commerce Store
 
 ## **Project Objective**
 
-The owner of the Madhav E-Commerce Store wants us to create an interactive dashboard to track and analyze their online sales across India.
+The owner of the **Madhav E-Commerce Store** wants us to create an <a href="https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Madhav%20Store%20Ecommerce%20Dashboard.png">interactive dashboard</a> to track and analyze their online sales across India.
 
 
 ## **Dataset used**
