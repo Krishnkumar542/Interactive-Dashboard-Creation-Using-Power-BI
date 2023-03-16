@@ -14,6 +14,12 @@ The owner of the Madhav E-Commerce Store wants us to create an interactive dashb
 
 ## **Questions**
 
+- Compare the sum of the amounts with different states.
+- Which person spent the maximum amount of money to buy products?
+- Which category of product customer orders the most (Furniture, Clothing and Furniture)?
+- What kind of payment mode customer uses the most while purchasing products?
+- Which months of the year Madhav Store generate the maximum profit and minimum profit?
+- Which sub-category of the product customer orders the most and provides maximum profits to Madhav Store?
 
 
 ## **Process**
