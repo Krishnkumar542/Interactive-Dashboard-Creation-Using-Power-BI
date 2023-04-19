@@ -12,7 +12,7 @@ The owner of the **Madhav E-Commerce Store** wants us to create an <a href="http
 - <a href="https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Orders.csv">Orders</a>
 
 
-## **Questions**
+## **Questions (KPIs)**
 
 - Compare the sum of the amounts with different states.
 - Which person spent the maximum amount of money to buy products?
